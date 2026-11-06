@@ -1,0 +1,27 @@
+name: Daily activity
+
+on:
+  schedule:
+    - cron: "17 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-activity
+  cancel-in-progress: true
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Record daily activity
+        run: |
+          git config user.name "Mohsen Ali"
+          git config user.email "mohsenalitaklife@gmail.com"
+          printf -- "- %s\n" "$(date -u +'%Y-%m-%d %H:%M UTC')" >> activity/log.md
+          git add activity/log.md
+          git commit -m "chore: daily activity $(date -u +'%Y-%m-%d')"
+          git push
