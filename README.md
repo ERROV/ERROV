@@ -9,7 +9,7 @@
   <a href="https://pixelinc.site">
     <img src="https://img.shields.io/badge/Pixel%20Inc-pixelinc.site-4E5CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pixel Inc" />
   </a>
-  <a href="https://www.linkedin.com/in/mohsen-ali-033b60299">
+  <a href="https://www.linkedin.com/in/mohsen-ali-taklife-02a9b6364/">
     <img src="https://img.shields.io/badge/LinkedIn-Mohsen%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mohsenalitaklife@gmail.com">
