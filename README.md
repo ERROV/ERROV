@@ -2,12 +2,12 @@
 
   <h1>Mohsen Ali</h1>
 
-  <p><b>Software Developer · Pixel Inc</b></p>
+  <p><b>Software Developer at <a href="https://pixelinc.site">Pixel Inc</a></b></p>
 
-  <p>I build web, mobile and automation products from Baghdad, Iraq.</p>
+  <p>I turn ideas into real digital products — web, mobile, custom systems and AI automation.</p>
 
   <a href="https://pixelinc.site">
-    <img src="https://img.shields.io/badge/Website-pixelinc.site-4E5CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/Pixel%20Inc-pixelinc.site-4E5CBF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Pixel Inc" />
   </a>
   <a href="https://www.linkedin.com/in/mohsen-ali-033b60299">
     <img src="https://img.shields.io/badge/LinkedIn-Mohsen%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -20,9 +20,22 @@
 
 ## About
 
-- Building digital products at **[Pixel Inc](https://pixelinc.site)** — web development, mobile apps, custom systems and AI automation
-- Focused on clean architecture, reliable APIs and interfaces people enjoy using
-- Based in Baghdad, Iraq
+I'm a software developer at **[Pixel Inc](https://pixelinc.site)**, an Iraqi software company based in Baghdad. I build products end to end — from the interface people use to the APIs and infrastructure behind it.
+
+- **Company** — Pixel Inc · [pixelinc.site](https://pixelinc.site)
+- **Location** — Baghdad, Iraq
+- **Focus** — web & mobile apps, custom systems, AI automation, cloud & APIs
+
+## What I do
+
+| Area | Details |
+| --- | --- |
+| Web applications | TypeScript, JavaScript, Node.js, modern frontends and REST APIs |
+| Mobile applications | Flutter & Dart for iOS and Android |
+| Custom systems | Internal tools, dashboards and business workflows |
+| AI & automation | Assistants, integrations and process automation |
+| Backend & cloud | API design, integrations, deployments and maintenance |
+| UI/UX | Interfaces built around clarity, speed and real user needs |
 
 ## Tech stack
 
@@ -50,8 +63,10 @@
 
 ## Featured project
 
-- **[Dailoz](https://github.com/ERROV/dailoz)** — a daily activity planner built with Flutter, recreating the Dailoz UI kit with working task, filter and statistics flows.
+- **[Dailoz](https://github.com/ERROV/dailoz)** — a daily activity planner built with Flutter, with task management, filtering and statistics flows.
 
 ---
 
-<sub>Baghdad, Iraq · [pixelinc.site](https://pixelinc.site)</sub>
+<div align="center">
+  <sub>Baghdad, Iraq · <a href="https://pixelinc.site">pixelinc.site</a> · <a href="mailto:hello@pixelinc.site">hello@pixelinc.site</a></sub>
+</div>
